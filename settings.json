@@ -1,0 +1,26 @@
+{
+	"*": {
+		"core": {
+			"disabledPackages": [
+				"welcome",
+				"markdown-preview"
+			],
+			"telemetryConsent": "no",
+			"uriHandlerRegistration": "never"
+		},
+		"editor": {
+			"fontSize": 17,
+			"invisibles": {},
+			"showInvisibles": true
+		},
+		"exception-reporting": {
+			"userId": "daf0f512-d17e-49bf-89cb-fe4aa1f851af"
+		},
+		"sync-settings": {
+			"useOtherLocation": true
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "git@github.com:dankirkham/atom-settings.git"
+		}
+	}
+}
